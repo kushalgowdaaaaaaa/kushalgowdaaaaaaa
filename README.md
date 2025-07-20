@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=GenAI%20Enthusiast;RAG%2C%20LLMs%2C%20Agentic%20AI%20Explorer;Always%20Learning%20Something%20New!&center=true&width=500&height=45" />
 </p>
 
-<img align="right" alt="AI Dev" width="380" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
+<img align="right" alt="AI Dev" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
 
 ---
 
